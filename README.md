@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm passionate about various areas relating to the
 
 Here are some of my favorite projects:
 
-- [Project 1](https://github.com/omar-atef-badr/project1): A cool project that does amazing things.
+- [TalkToTexty](https://github.com/omar-atef-badr/SpeakToTextAI): A cool project that does amazing things.
 - [Project 2](https://github.com/omar-atef-badr/project2): Another awesome project that I'm proud of.
 - [Project 3](https://github.com/omar-atef-badr/project3): Yet another project showcasing my skills.
 
