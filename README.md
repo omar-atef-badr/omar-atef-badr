@@ -1,39 +1,39 @@
-# Hiya there, I'm Omar 👋
+# Hi, I'm Omar 👋
 
-Welcome to my GitHub profile! I'm passionate about various areas relating to theoretical computer science and its practical applications. Here you'll find some of my work and contributions.
+I’m a CS student exploring the overlap of **theoretical computer science** and **practical systems/ML**. I like building small, fast things that are easy to reason about.
 
-### About Me
+## What I'm focused on
+- 🧠 Learning: advanced Python, algorithms, ML fundamentals
+- 🤝 Open source: happy to collaborate on Python/ML/web tooling
+- ♟️ Fun: chess + any sport I can try at least once
 
-- 🌱 I’m currently learning advanced Python and machine learning.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about Python, machine learning, and web development.
-- 📫 How to reach me: [omaratefbadr11@gmail.com](mailto:omaratefbadr11@gmail.com)
-- ⚡ Fun fact: I love playing every sport that exists and I am an avid chess player!
+## Featured Projects
+- **TalkToTexty** — real-time speech-to-text AI web app  
+  [`/SpeakToTextAI`](https://github.com/omar-atef-badr/SpeakToTextAI)
+- **Automated Web Scrapers** — revolutinising scraping with AI agents 
+  `ONGOING`
+- **Sudoku Solving Heuristics** — inspired from SAT Solver coursework
 
-### My GitHub Stats
+## Tech I enjoy
+Python • FastAPI • PyTorch • JavaScript/TypeScript • Node.js • HTML/CSS • Git • Linux
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omar-atef-badr&show_icons=true&theme=radical)
+## Contact
+- 📬 **Email:** [omaratefbadr11@gmail.com](mailto:omaratefbadr11@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/omar-atef-badr](https://www.linkedin.com/in/omar-atef-badr)
 
-### Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omar-atef-badr&layout=compact&theme=radical)
+<!-- Stats (optional) — self-host these on Vercel for reliability -->
+<p align="left">
+  <img
+    src="https://<your-vercel-app>.vercel.app/api?username=omar-atef-badr&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=14400"
+    alt="Omar's GitHub stats"
+    height="170"
+  />
+  <img
+    src="https://<your-vercel-app>.vercel.app/api/top-langs/?username=omar-atef-badr&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=14400"
+    alt="Top languages"
+    height="170"
+  />
+</p>
 
-### My Projects (UNDER CONSTRUCTION)
-
-Here are some of my favorite projects:
-
-- [TalkToTexty](https://github.com/omar-atef-badr/SpeakToTextAI): A real-time speech-to-text AI web-app.
-- [Project 2](https://github.com/omar-atef-badr/project2): Another awesome project that I'm proud of.
-- [Project 3](https://github.com/omar-atef-badr/project3): Yet another project showcasing my skills.
-
-### Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/omar-atef-badr)
-
-Feel free to reach out if you have any questions or just want to connect!
-
-Thanks for visiting my profile!
-<!---
-omar-atef-badr/omar-atef-badr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
