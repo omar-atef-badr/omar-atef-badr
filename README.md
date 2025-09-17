@@ -24,16 +24,4 @@ Python • FastAPI • PyTorch • JavaScript/TypeScript • Node.js • HTML/CS
 ---
 
 <!-- Stats (optional) — self-host these on Vercel for reliability -->
-<p align="left">
-  <img
-    src="https://<your-vercel-app>.vercel.app/api?username=omar-atef-badr&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=14400"
-    alt="Omar's GitHub stats"
-    height="170"
-  />
-  <img
-    src="https://<your-vercel-app>.vercel.app/api/top-langs/?username=omar-atef-badr&layout=compact&langs_count=8&hide=jupyter%20notebook,html,css&cache_seconds=14400"
-    alt="Top languages"
-    height="170"
-  />
-</p>
 
