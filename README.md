@@ -13,7 +13,7 @@ I’m a CS student exploring the overlap of **theoretical computer science** and
 - **Automated Web Scrapers** — revolutinising scraping with AI agents 
   `ONGOING`
 - **Sudoku Solving Heuristics** — inspired from SAT Solver coursework
-
+  [`/sudoku-solver`](https://github.com/omar-atef-badr/sudoku-solver)
 ## Tech I enjoy
 Python • FastAPI • PyTorch • JavaScript/TypeScript • Node.js • HTML/CSS • Git • Linux
 
