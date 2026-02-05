@@ -14,7 +14,7 @@ I’m a CS student exploring the overlap of **theoretical computer science** and
   `ONGOING`
 - **Sudoku Solving Heuristics** — inspired from SAT Solver coursework
   [`/sudoku-solver`](https://github.com/omar-atef-badr/sudoku-solver)
-  - **Others** — freelance projects and/or projects involving active users can be available to "view" on request
+- **Others** — freelance projects and/or projects involving active users can be available to "view" on request
 ## Tech I enjoy
 Python • FastAPI • PyTorch • JavaScript/TypeScript • Node.js • HTML/CSS • Git • Linux
 
