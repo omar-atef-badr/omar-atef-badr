@@ -1,6 +1,6 @@
 # Hi, I'm Omar 👋
 
-I’m a CS student exploring the overlap of **theoretical computer science** and **practical systems/ML**. I like building small, fast things that are easy to reason about.
+I’m a CS student exploring the overlap of **theoretical computer science** and **practical systems/ML**. I like building small, fast things that make the lives of others easier!
 
 ## What I'm focused on
 - 🧠 Learning: advanced Python, algorithms, ML fundamentals
